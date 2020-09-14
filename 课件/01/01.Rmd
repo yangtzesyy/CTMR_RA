@@ -1,0 +1,18 @@
+---
+title: "CTMR "
+subtitle: "小课01：导论"
+date: "`r format(Sys.time(), '%B %Y')`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+class: nature, left, top
+
+## 自我介绍
+
+![trolley01](../课件/01/images/01.png)
