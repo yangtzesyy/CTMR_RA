@@ -1,0 +1,21 @@
+---
+title: "CTMR "
+subtitle: "小课02：导论"
+author: "石宇洋"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css, zh-CN.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    self_contained: true
+---
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#8696a7"
+)
+```
