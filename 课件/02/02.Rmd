@@ -19,3 +19,8 @@ style_mono_accent(
   base_color = "#8696a7"
 )
 ```
+
+<!-- 
+可用案例：TikTok
+https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B5%84%E5%A7%94%E5%91%98%E4%BC%9A%E5%91%A8%E4%BA%8C%E5%B0%86%E5%AE%A1%E6%9F%A5%E7%94%B2%E9%AA%A8%E6%96%87%E4%B8%8Etiktok%E7%9A%84%E4%BA%A4%E6%98%93-11600212009 
+-->
