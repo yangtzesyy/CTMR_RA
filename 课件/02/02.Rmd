@@ -1,6 +1,6 @@
 ---
-title: "CTMR "
-subtitle: "小课02：导论"
+title: "小课02：范美忠 "
+subtitle: "事实与价值，撕裂的人"
 author: "石宇洋"
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
 output:
@@ -19,6 +19,57 @@ style_mono_accent(
   base_color = "#8696a7"
 )
 ```
+### 作业问题
+---
+### 解释
+
+>不要给学生任何定义性的东西
+
+* 共识是讨论问题的基础
+
+* 在提出后，定义可以被挑战
+
+* 各种定义之间可能存在差异，是很好的CTMR原材料
+---
+### 事实判断与价值判断
+
+**价值判断**
+
+  * A value judgment (or value judgement) is a judgment of the **rightness** or **wrongness** of something or someone, or of the **usefulness** of something or someone, based on a comparison or other relativity. As a generalization, a value judgment can refer to a judgment based upon **a particular set of values** or on **a particular value system**.<sup>1</sup>
+  
+  * **文明是特定的价值排序**<sup>2</sup>
+
+**事实判断**
+
+  * A fact is an **occurrence** in the **real** world.<sup>3</sup>
+  
+  
+.footnote[
+[1] wikipedia 链接：https://en.wikipedia.org/wiki/Value_judgment 
+
+[2] 刘瑜 2019-2020-3 当代世界重大议题探讨（课程）
+
+[3] wikipedia 链接：https://en.wikipedia.org/wiki/Fact]
+
+---
+### Worryings
+
+* 他很高
+
+* 我觉得杀人是错误的
+
+---
+### “范跑跑”事件
+
+>宽容宽厚宽恕范先生、批评范老师、严厉批评范跑跑
+
+* 范先生
+
+* 范老师
+
+* 范跑跑
+---
+
 
 <!-- 
 可用案例：TikTok
