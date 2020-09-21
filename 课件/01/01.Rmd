@@ -18,10 +18,13 @@ background-size: 200px
 background-position: 10% 50%
 class: nature, left, top
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
-library(xaringanthemer)
+if(require(pacman)) install.packages("pacman");
+library(pacman)
+p_load(xaringan)
 style_mono_accent(
   base_color = "#965454"
 )
+# pagedown::chrome_print("课件/01/01.Rmd")
 ```
 
 ### 自我介绍
