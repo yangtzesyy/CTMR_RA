@@ -16,12 +16,14 @@ output:
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_mono_accent(
-  base_color = "#784E56"
+  base_color = "#D19379"
 )
 ```
 class: inverse, center, middle
 # 随意打断我
 ---
+class: nature, left, middle
+
 ### 请一定随意打断我
 
 * 当你觉得我的逻辑存在漏洞（针对原著分析）
@@ -31,10 +33,13 @@ class: inverse, center, middle
 ...
 
 ---
-class: inverse, center, middle
+class: nature, left, middle
 
 # 边沁功利主义
+
 ---
+class: nature, left, middle
+
 ### 重点
 
 功利主义与利己主义
@@ -63,6 +68,8 @@ class: nature, left, middle
 >Nature has placed mankind under the **governance** of two sovereign masters, pain and pleasure. It is for them alone to point out what we **ought to do**, as well as to **determine** what we **shall do**.
 
 ---
+class: nature, left, middle
+
 ### TikTok
 >2020年7月7日，美国国务卿迈克·蓬佩奥在接受福斯新闻频道主持人劳拉·英格拉汉姆采访时，表示中国的社交媒体应用**将用户的个人信息**交给中共政府，正考虑封杀，“尤其是TikTok”...美国总统唐纳德·特朗普向记者透露他计划最早于8月1日利用行政命令或其他手段**强制TikTok停止在美国的一切业务**...字节跳动则希望未来TikTok被收购后可以保留少量股权，不过美国总统唐纳德·特朗普反对收购，微软的收购谈判一度暂停，不过很快微软宣布重启收购计划。
 
@@ -101,56 +108,87 @@ class: inverse, center, middle
 # 幸福是幻觉吗？
 
 ---
+class: nature, left, middle
+
 ### 幸福是幻觉吗？
+
 >只有在我们的生活变成不幸时，我们才能首次首次感受到我们的生活曾经是幸福的。——《关于无意义与生命的痛苦》，叔本华
 
-* 幸福是某种稳定的状态，不同于简单的喜悦或是短暂的快乐...幸福要存在，就得不间断地持续下去...
+>* 幸福是某种稳定的状态，不同于简单的喜悦或是短暂的快乐...幸福要存在，就得不间断地持续下去...
+
+> ****
+
+
 
 >追逐幸福比幸福本身更加重要。——《沉思录》，巴斯卡
 
-* 我们所追求的，与其说是幸福，不如说是透过操心某事以忘记我们悲惨的处境。
+>* 我们所追求的，与其说是幸福，不如说是透过操心某事以忘记我们悲惨的处境。
+
+> ****
+
+
 
 >如果人们用「幸福」这个字眼去指某种持续的、最大程度令人喜悦的兴奋状态，这显然是无法实现之事...幸福的人生只有某些时刻是狂喜的，构成其存在的，是少数断续的痛苦，与大量多样的喜悦。——《功利主义》，密尔
 
-* 幸福并非与苦难和痛苦毫不相容。
+>* 幸福并非与苦难和痛苦毫不相容。
 
 ---
 class: inverse, center, middle
 
 # 幸福是否取决我们自身？
 ---
+class: nature, left, middle
+
 ### 幸福是否取决我们自身？
 
 >我很少看见幸福的人，或许一个也没看过；但我经常看见满足的心灵，这是一切让我印象深刻的事物中最令我高兴的。——《孤独漫步者的沉思》，卢梭
 
-* 「幸福」与「满足」是不一致的
+>* 「幸福」与「满足」是不一致的
+
+> ****
+
+
 
 >如果你因为某种外在事物而感到痛苦，并不是此一事物让你烦乱不安，而是你对它所下的判断。——《沉思录》，奥里略
 
-* 必须区分取决于我们与不取决于我们的事物
+>* 必须区分取决于我们与不取决于我们的事物
+
+> ****
+
+
 
 >最好是不要那么高兴，而要有更多认识。——《哲学全集》，笛卡尔
 
-* 《逃避自由》
+>* 《逃避自由》
 
 ---
 class: inverse, center, middle
 
 # 道德高尚才能幸福吗？
 ---
+class: nature, left, middle
+
 ### 道德高尚才能幸福吗？
 
 > 幸福来自于...驱逐灵魂产生巨大昏乱的意见。——*Letter to Menoeceus*, Epicurus
 
 > 一个具有理性和意志的存在，若其自然原有的目的就是他的保存、他的福祉。——《道德形而上学奠基》，康德
 
-****
+> ****
+
+
  
-> 德行是幸福的结果
+> 德行是幸福的结果。——《偶像的黄昏》，尼采
 
-* 当一个民族毁灭、生理衰退的时候，由之产生的结果就是罪恶与奢侈。
+> 当一个民族毁灭、生理衰退的时候，由之产生的结果就是罪恶与奢侈。
 
+---
+class: inverse, center, middle  
+# Q & A
 
+---
+class: inverse, center, middle  
+# Thanks
 
 
 
@@ -166,7 +204,6 @@ https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B5%
 https://www.bbc.com/zhongwen/simp/business-54173718
 -->
 
----
 
 
 
