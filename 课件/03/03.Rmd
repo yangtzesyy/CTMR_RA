@@ -16,7 +16,7 @@ output:
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_mono_accent(
-  base_color = "#D19379"
+  base_color = "#809993"
 )
 ```
 class: inverse, center, middle
