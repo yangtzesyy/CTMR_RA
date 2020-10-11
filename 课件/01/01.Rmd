@@ -144,6 +144,7 @@ background-size: 400px
 * 一条铁轨上有一个人
 * 另一条铁轨上有五个人
 * 电车将驶向有五个人的铁轨
+
 ---
 class: nature, left, top
 background-image: url(https://github.com/yangtzesyy/CTMR_RA/blob/master/%E8%AF%BE%E4%BB%B6/01/images/03.png?raw=true)
