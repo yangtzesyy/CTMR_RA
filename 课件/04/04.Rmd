@@ -44,6 +44,13 @@ class: inverse, center, middle
 * CJZY
 
 ---
+
+class: nature, left, top
+background-image: url(https://github.com/yangtzesyy/CTMR_RA/blob/master/%E8%AF%BE%E4%BB%B6/04/picUrl.jpeg?raw=true)
+background-position: 50% 50%
+background-size: 500px
+
+---
 ### 作业：亮点
 
 #### 论自由
