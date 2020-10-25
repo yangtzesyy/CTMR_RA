@@ -14,6 +14,18 @@ output:
       ratio: "16:9"
     self_contained: true
 ---
+### 备课会
+A先后有甲、乙两任丈夫，分别育有子甲甲、乙乙。A去世后，甲家族规定甲需要和首任妻子A合葬（A是甲的首任妻子），乙家族规定乙需要和末任妻子A合葬（A是乙的末任妻子）。甲甲、乙乙因遗体归属问题闹上法庭。
+
+* 功利主义框架
+
+  * 依照A与甲、乙的婚姻关系判断
+  
+  * ...
+
+
+---
+
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_mono_accent(
