@@ -18,9 +18,8 @@ background-size: 200px
 background-position: 10% 50%
 class: nature, left, top
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
-if(require(pacman)) install.packages("pacman");
 library(pacman)
-p_load(xaringan)
+p_load(xaringan,xaringanthemer)
 style_mono_accent(
   base_color = "#965454"
 )
@@ -70,6 +69,7 @@ style_mono_accent(
   * More about that later
 1. 期末考试：40%
 ]
+
 ---
 class: nature, left, top
 
@@ -128,8 +128,8 @@ class: inverse, center, middle
 
 ---
 class: nature, left, top
-
-background-image: url(https://github.com/yangtzesyy/CTMR_RA/blob/master/%E8%AF%BE%E4%BB%B6/01/images/01.png?raw=true)
+background-image: url(https://github.com/yangtzesyy/public-finance/blob/main/pic01-descriptive.png?raw=true)
+background-position: 50% 50%
 background-size: 500px
 
 ### 电车困境
