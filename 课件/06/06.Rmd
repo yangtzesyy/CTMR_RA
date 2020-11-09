@@ -1,0 +1,157 @@
+---
+title: "小课06：康德的罪与罚"
+subtitle: "如果顿悟不置于渐悟中，顿悟之后恐有顿迷来。"
+author: "洋子"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css, zh-CN.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+    self_contained: true
+---
+background-image: url(https://github.com/yangtzesyy/CTMR_RA/blob/master/%E8%AF%BE%E4%BB%B6/06/WechatIMG546.jpeg?raw=true)
+background-position: 50% 50%
+background-size: 1000px
+
+### 本周作业
+
+---
+### 备课会
+A先后有甲、乙两任丈夫，分别育有子甲甲、乙乙。A去世后，甲家族规定甲需要和首任妻子A合葬（A是甲的首任妻子），乙家族规定乙需要和末任妻子A合葬（A是乙的末任妻子）。甲甲、乙乙因遗体归属问题闹上法庭。
+
+* 功利主义框架
+
+  * 依照A与甲、乙的婚姻关系判断
+  
+  * ...
+
+
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#3E506C"
+)
+```
+### 作业
+
+>康德在建立道德观念的时候，实际上是默认所有理性人都会有同样的初始认知的。
+
+# 
+
+>某种意义上士兵都是执行统治者意志的工具。在康德的哲学框架内，这违反了其中一条绝对律令：将人当作目的而非工具。换言之，士兵“理性无知”的行为构成了“平庸的恶”——科层制下人作为履行职责的工具而失去个体判断力的结果。
+
+# 
+
+>
+
+# 
+
+>
+
+---
+### 作业：「义务」
+
+>1974东德加入了这一公约，这意味着东德应承担这一国际法义务。
+
+# 
+
+> 此时哨所与东德民主共和不但给予了两位哨兵首位柏林墙的义务...
+
+# 
+
+> 就哨兵的义务来说，两位无罪过。但是至于其哨兵的义务是否是出于道德的，便需要进一步的解析与了解。
+
+# 
+
+.center[**我们在谈的「义务」是什么？**]
+
+---
+class:inverse, center, middle
+
+# 罪与罚
+
+## .bottom[.right[康德为何支持死刑存续？]]
+
+---
+### 论证
+
+.center[A杀死了B]
+
+.pull-left[
+假设A有理性
+
+* 理性要求普遍化法则
+
+* A认为「杀死B」是符合理性的
+
+* 在A看来，「杀死A」也是符合理性的
+
+]
+
+.pull-right[
+假设A没有理性
+
+* 我们不必以对待理性存在者的方式对待A
+
+* 「杀死A」与理性无关
+]
+
+.center[**我们可以杀死A**]
+
+---
+class:inverse, middle, center
+
+# 罚的应当性 
+
+# The reason to punish
+
+---
+### 罚的应当性 The reason to punish
+
+.pull-left[
+
+* To prevent offenders from doing further harm
+
+* Deterrence (to prevent recidivism and discourage other potential offenders)
+
+* To give satisfaction to victims/society
+
+* To reform/educate offenders and make them into more productive members of society.
+]
+
+.pull-right[
+
+* People should be punished simply because they have committed crimes, and for no other reason.
+
+* Punishment should be **proportionate** to the crime. 
+
+  * 罚的严苛应当与罪的程度相当
+
+]
+
+
+<!-- pagedown::chrome_print("课件/02/02.Rmd") -->
+
+<!-- 
+可用案例：香港校本调查被推翻
+https://theinitium.com/article/20201006-evening-brief/
+
+-->
+
+
+
+
+
+
+
+
+
+
+
