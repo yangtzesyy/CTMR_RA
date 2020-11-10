@@ -58,7 +58,7 @@ style_mono_accent(
 ---
 ### 作业：「义务」
 
->1974东德加入了这一公约，这意味着东德应承担这一国际法义务。
+> 1974东德加入了这一公约，这意味着东德应承担这一国际法义务。
 
 # 
 
@@ -73,11 +73,11 @@ style_mono_accent(
 .center[**我们在谈的「义务」是什么？**]
 
 ---
-class:inverse, center, middle
+class: left, middle
 
 # 罪与罚
 
-## .bottom[.right[康德为何支持死刑存续？]]
+### 康德为何支持死刑存续？
 
 ---
 ### 论证
@@ -133,8 +133,17 @@ class:inverse, middle, center
 * Punishment should be **proportionate** to the crime. 
 
   * 罚的严苛应当与罪的程度相当
+  
+  * 罪是对理性的背弃
 
 ]
+
+---
+class:inverse, center, middle
+
+# 口试
+
+---
 
 
 <!-- pagedown::chrome_print("课件/02/02.Rmd") -->
