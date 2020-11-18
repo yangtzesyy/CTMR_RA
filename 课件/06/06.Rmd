@@ -22,13 +22,8 @@ background-size: 1000px
 
 ---
 ### 备课会
-A先后有甲、乙两任丈夫，分别育有子甲甲、乙乙。A去世后，甲家族规定甲需要和首任妻子A合葬（A是甲的首任妻子），乙家族规定乙需要和末任妻子A合葬（A是乙的末任妻子）。甲甲、乙乙因遗体归属问题闹上法庭。
 
-* 功利主义框架
-
-  * 依照A与甲、乙的婚姻关系判断
-  
-  * ...
+没什么东西
 
 
 ---
@@ -36,7 +31,7 @@ A先后有甲、乙两任丈夫，分别育有子甲甲、乙乙。A去世后，
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_mono_accent(
-  base_color = "#3E506C"
+  base_color = "#006C96"
 )
 ```
 ### 作业
@@ -49,11 +44,7 @@ style_mono_accent(
 
 # 
 
->
-
-# 
-
->
+>似乎默认了纯粹的德行确实可能是见不到的。但他随之间接地提出，我们至少不会完全背离义务理念——因为我们确信大自然赋予我们的理性...
 
 ---
 ### 作业：「义务」
@@ -164,6 +155,8 @@ class:inverse, center, middle
 https://theinitium.com/article/20201006-evening-brief/
 
 -->
+---
+
 
 
 
