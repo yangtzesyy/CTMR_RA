@@ -1,0 +1,135 @@
+---
+title: "小课09：美德伦理学"
+subtitle: "稳固性和连贯性无可挽回地消散了"
+author: "洋子"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css, zh-CN.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+    self_contained: false
+---
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#939391"
+)
+```
+
+### 备课会
+
+考试：案例下发（A部分）
+
+本性与德性：本性先验，德性结果
+
+  * 按照各自的本性去培养他们
+
+---
+class: inverse, left, middle
+
+# 亚里士多德
+
+---
+class: left, middle
+
+### 四因说
+
+目的Purpose、形式Form、动力Agent、质料Matter
+
+「人」组成「城邦」，在「对美的追寻」冲动下「成为善」
+
+其中，「形式」、「动力」、「质料」都在某种程度上为「目的」服务。
+
+---
+class: inverse, left, middle
+
+### 美德伦理学 Virtue Ethics
+
+---
+### 美德 Ethics
+
+美德：功能的卓越发挥
+
+* 适度状态：而非实体
+
+* 实践智慧：「发挥」必须在「实践」中发挥
+
+---
+class: left, middle
+
+### 目的论
+
+万物自有其目的（这一目的不是后定的）
+
+---
+class: inverse, middle, center
+
+# 美德伦理学的修复
+
+---
+class: inverse, middle, center
+
+# 背景
+
+---
+class: middle, center
+
+### 外在利益与内在利益
+
+外在利益：竞争对象
+
+内在利益：自得对象
+
+「实践」是「通过一定协作方式」，获得「内在利益」的过程
+
+---
+class: inverse, middle, center
+
+# 「叙事存在」
+
+---
+class: nature, left, top
+background-image: url(https://d32kak7w9u5ewj.cloudfront.net/media/image/2020/12/c989a6e39f8849119d7b86aec4030d4d.jpg)
+background-position: 50% 50%
+background-size: 700px
+
+
+---
+class: inverse, middle, center
+
+# 「角色社会」与「福特制」
+
+---
+class: inverse, middle, center
+
+# 问题
+
+
+---
+### 案例分析：瑞幸咖啡
+
+1. 作为公司的瑞幸应该分别对谁有何种责任？
+
+2. 分析瑞幸违反相关法律行为的意义及影响。
+
+3. 如何理解“1.8折喝咖啡”？
+
+4. 如何评价证监会的行为？有其他可行方案吗？
+
+
+
+---
+class: inverse, left, middle
+
+### 谢谢大家，下周见：）
+
+
+
+
+
+
