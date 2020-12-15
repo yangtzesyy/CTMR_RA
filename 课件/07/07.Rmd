@@ -14,14 +14,27 @@ output:
       ratio: "16:9"
     self_contained: true
 ---
-class: left, middle
+class: inverse, left, middle
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_mono_accent(
-  base_color = "#006C96"
+  base_color = "#1D3052"
 )
 ```
+# 口试体验
+
+---
+### 备课会
+
+从「个人」到「社会」？
+
+* 从「如何去做」到「政府如何去做」
+
+
+---
+class: left, middle
+
 # 作业
 
 ---
@@ -48,7 +61,7 @@ class: left, middle
 # 诺齐克与康德
 
 ---
-### 诺齐克与康德
+### [诺齐克与康德](https://iep.utm.edu/nozick/)
 
 诺齐克认为他的政治哲学立足于康德的第二原则：**Act so that you treat humanity, whether in your own person or in that of another, always as an end and never as a means only**。人作为一个被赋予自我意识、自由意志和制定人生计划可能性的理性人，具有与生俱来的尊严，不能像无生命的物体那样，仅仅被当作一个单纯的东西、工具或资源。
 
